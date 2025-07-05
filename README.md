@@ -20,3 +20,6 @@ The website is structured in a way that it can be expanded in the future with Ja
 
 This project helped me understand how to structure code cleanly, how to present content effectively, and how to make a strong first impression through design. It also serves as a live demonstration of my frontend skills for recruiters, mentors, and collaborators.
 
+*OUTPUT*
+<img width="1920" height="941" alt="Image" src="https://github.com/user-attachments/assets/41328560-f485-44fb-b02b-df2aacab7ff6" />
+
